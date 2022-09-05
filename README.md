@@ -1,6 +1,6 @@
 # PokemonClone
 
-This is a clone of the original Pokemon games implemented in python.
+This is a clone of the original Pokemon games implemented with python.
 
 ## Dependencies
 
