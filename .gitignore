@@ -51,3 +51,11 @@ docs/_build/
 
 # Testing files
 dev.py
+
+# Environment
+.env
+.venv
+*.env
+*.venv
+env/
+venv/
