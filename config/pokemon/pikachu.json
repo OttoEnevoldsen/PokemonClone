@@ -1,6 +1,6 @@
 {
     "name": "Pikachu",
-    "type": [
+    "types": [
         "Electric"
     ],
     "health": 35,

@@ -7,10 +7,10 @@ import os
 
 class Pokemon():
 
-    def __init__(self, name, type, health, attack, defence, s_attack, s_defence, speed, moves):
+    def __init__(self, name, types, health, attack, defence, s_attack, s_defence, speed, moves):
 
         self.name = name
-        self.type = type
+        self.types = types
         self.health = health
         self.attack = attack
         self.defence = defence
@@ -32,7 +32,7 @@ def get_pokemon(name):
         
         return Pokemon(
             data["name"], 
-            data["type"], 
+            data["types"], 
             data["health"], 
             data["attack"], 
             data["defence"], 
