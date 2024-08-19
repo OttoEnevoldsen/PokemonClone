@@ -1,4 +1,6 @@
+- NOTICE: THIS GAME IS DISCONTINUED
 # PokemonClone
+
 
 This is a clone of the original Pokemon games implemented with python.
 
